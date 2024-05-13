@@ -1,0 +1,418 @@
+{
+	"code": 0,
+	"msg": "success",
+	"time": 1685496356,
+	"data": {
+		"runInfoId": 53192,
+		"detection": {
+			"Acne": {
+				"AcneNum": 0,
+				"AcneScore": 100,
+				"ChinAcneNum": 0,
+				"ChinSmallPoxNum": 0,
+				"ForeHeadAcneNum": 0,
+				"ForeHeadSmallPoxNum": 0,
+				"LeftFaceAcneNum": 0,
+				"LeftFaceSmallPoxNum": 0,
+				"NoseAreaAcneNum": 0,
+				"NoseAreaSmallPoxNum": 0,
+				"RightFaceAcneNum": 0,
+				"RightFaceSmallPoxNum": 0,
+				"SmallPoxNum": 0,
+				"UpperLipAcneNum": 0,
+				"UpperLipSmallPoxNum": 0
+			},
+			"BlackHeads": {
+				"BlackHeadsNum": 0,
+				"BlackHeadsRatio": 0,
+				"BlackHeadsScore": 100
+			},
+			"DarkEyeCircle": {
+				"DarkEyeCircleScore": 93,
+				"DarkEyeCircleStyle": 17
+			},
+			"FaceSkinType": {
+				"SkinType": "you xing",
+				"SkinTypeNum": 17
+			},
+			"FinishTime": {
+				"Time": "Wed May 31 09:25:56 2023"
+			},
+			"Pore": {
+				"ChinPoreNum": 0,
+				"ForeHeadPoreNum": 1,
+				"LeftFacePoreNum": 2,
+				"NoseAreaPoreNum": 0,
+				"PoreNum": 4,
+				"PoreRatio": 3.01659125188537,
+				"PoreScore": 100,
+				"RightFacePoreNum": 1,
+				"UpperLipPoreNum": 0
+			},
+			"Roughness": {
+				"RoughnessScore": 74
+			},
+			"SkinColor": {
+				"SkinColor": "zi ran",
+				"SkinColorScore": 91,
+				"SkinColorType": 51
+			},
+			"Splash": {
+				"ChinSplashNum": 0,
+				"ForeHeadSplashNum": 0,
+				"LeftFaceSplashNum": 0,
+				"NoseAreaSplashNum": 0,
+				"RightFaceSplashNum": 0,
+				"SplashNum": 0,
+				"SplashRatio": 0,
+				"SplashScore": 100,
+				"UpperLipSplashNum": 0
+			},
+			"StartTime": {
+				"Time": "Wed May 31 09:25:56 2023"
+			},
+			"Texture": {
+				"TextureScore": 99
+			},
+			"Time": {
+				"TotalTime": 171
+			},
+			"Version": "3.0.0",
+			"Water": {
+				"GeneralRatio": 0.245461879790238,
+				"GoodRatio": 0.2916498588140379,
+				"PoorRatio": 0.0300524405002017,
+				"VeryGoodRatio": 0.4328358208955224,
+				"VeryPoorRatio": 0,
+				"WaterScore": 87
+			},
+			"Wrinkle": {
+				"ForeHeadWrinkle": 666,
+				"LeftCheekWrinkle": 0,
+				"LeftEyeBagWrinkle": 0,
+				"LeftFacialWrinkle": 0,
+				"LeftNasolabialWrinkle": 666,
+				"LipDownSideWrinkle": 0,
+				"LipUpperSideWrinkle": 0,
+				"MidBrowWrinkle": 0,
+				"RightCheekWrinkle": 0,
+				"RightEyeBagWrinkle": 0,
+				"RightFacialWrinkle": 0,
+				"RightNasolabialWrinkle": 0,
+				"WrinkleNum": 3,
+				"WrinkleScore": 95
+			},
+			"result_type": 666,
+			"TotalScore": {
+				"TotalScore": 93
+			},
+			"Token": "xG95b7GVQa",
+			"Url": {
+				"Origin": "https://ym.pandaguangguang.com/faceprocess/202305/31/cf1f41db587a9677/179f8040440d0df9.jpg",
+				"Splash": "https://ym.pandaguangguang.com/faceprocess/202305/31/cf1f41db587a9677/179f8040440d0df9_1.jpg",
+				"Acne": "https://ym.pandaguangguang.com/faceprocess/202305/31/cf1f41db587a9677/179f8040440d0df9_2.jpg",
+				"Wrinkle": "https://ym.pandaguangguang.com/faceprocess/202403/12/0fda70107c765367/a4fe02dbadaade77_3.jpg",
+				"Pore": "https://ym.pandaguangguang.com/faceprocess/202305/31/cf1f41db587a9677/179f8040440d0df9_4.jpg",
+				"Blood": "https://ym.pandaguangguang.com/faceprocess/202305/31/cf1f41db587a9677/179f8040440d0df9_5.jpg",
+				"Water": "https://ym.pandaguangguang.com/faceprocess/202305/31/cf1f41db587a9677/179f8040440d0df9_6.jpg",
+				"BlackHeads": "https://ym.pandaguangguang.com/faceprocess/202305/31/cf1f41db587a9677/179f8040440d0df9_7.jpg",
+				"Texture": "https://ym.pandaguangguang.com/faceprocess/202305/31/cf1f41db587a9677/179f8040440d0df9_8.jpg",
+				"Roughness": "https://ym.pandaguangguang.com/faceprocess/202305/31/cf1f41db587a9677/179f8040440d0df9_9.jpg",
+				"AntiWrinkle": "https://ym.pandaguangguang.com/faceprocess/202305/31/cf1f41db587a9677/179f8040440d0df9_10.jpg",
+				"EyeliftShow": "https://ym.pandaguangguang.com/faceprocess/202305/31/cf1f41db587a9677/179f8040440d0df9_11.jpg",
+				"DarkEyeCircle": "https://ym.pandaguangguang.com/faceprocess/202305/31/cf1f41db587a9677/179f8040440d0df9_12.jpg",
+				"EyeliftShow_AntiWrinkle": "https://ym.pandaguangguang.com/faceprocess/202305/31/cf1f41db587a9677/179f8040440d0df9_13.jpg"
+				
+			},
+			"Age": 35,
+			"Glass": 0,
+			"Gender": 99,
+			"Beauty": 63.19,
+			"FaceShape": {},
+			"faceData": {
+				"face_token": "026af4aa03596cb45dd36149f2141add",
+				"location": {
+					"left": 138.4,
+					"top": 89.16,
+					"width": 93,
+					"height": 116,
+					"rotation": 1
+				},
+				"face_probability": 1,
+				"angle": {
+					"yaw": -1.44,
+					"pitch": 5.64,
+					"roll": 1.57
+				},
+				"age": 32,
+				"beauty": 63.19,
+				"expression": {
+					"type": "none",
+					"probability": 1
+				},
+				"face_shape": {
+					"type": "oval",
+					"probability": 0.43
+				},
+				"gender": {
+					"type": "male",
+					"probability": 1
+				},
+				"glasses": {
+					"type": "none",
+					"probability": 1
+				},
+				"landmark": [{
+						"x": 166.74,
+						"y": 108.42
+					},
+					{
+						"x": 209.2,
+						"y": 109.87
+					},
+					{
+						"x": 189.62,
+						"y": 134.27
+					},
+					{
+						"x": 186.21,
+						"y": 169.26
+					}
+				],
+				"landmark72": [],
+				"landmark150": {},
+				"race": {
+					"type": "white",
+					"probability": 0.95
+				},
+				"quality": {
+					"occlusion": {
+						"left_eye": 0,
+						"right_eye": 0,
+						"nose": 0,
+						"mouth": 0,
+						"left_cheek": 0.02,
+						"right_cheek": 0.02,
+						"chin_contour": 0
+					},
+					"blur": 0,
+					"illumination": 128,
+					"completeness": 1
+				},
+				"eye_status": {
+					"left_eye": 0.9999446869,
+					"right_eye": 1
+				},
+				"emotion": {
+					"type": "surprise",
+					"probability": 1
+				},
+				"face_type": {
+					"type": "human",
+					"probability": 0.99
+				}
+			}
+		},
+		"faceType": {
+			"frame1": {
+				"a": 79.94,
+				"b": 105.05,
+				"stalls": 85.69,
+				"lowerface": 100.84,
+				"t1": "下庭比中庭长",
+				"t2": "1.31 : 1"
+			},
+			"frame2": {
+				"a": 28.73,
+				"b": 32.14,
+				"c": 38.67,
+				"d": 30.19,
+				"e": 21.59,
+				"t1": "五眼比例",
+				"t2": "0.89 : 1 : 1.2 : 0.94 : 0.67"
+			},
+			"frame3": {
+				"a": 132.04,
+				"b": 145.39,
+				"c": 80.84,
+				"t1": "圆形脸",
+				"t2": "颧弓下颌骨比：0.91 : 1"
+			},
+			"frame4": {
+				"a": 38.67,
+				"b": 23.25,
+				"c": 64.54,
+				"t1": "尖下巴",
+				"t2": "上颌骨宽度",
+				"t2a": 132.04,
+				"t3": "圆形脸",
+				"t3a": "颧弓下颌骨比：0.91 : 1",
+				"t4": "太阳穴饱满",
+				"t5": "下巴宽度",
+				"t5a": 80.84,
+				"t6": ""
+			},
+			"frame5": {
+				"a": 132.04,
+				"b": "1.1 : 1",
+				"c": 64.54,
+				"t1": "大眼角",
+				"t1a": "内眼角度数：118.7",
+				"t2": "眼尾上扬",
+				"t3": "眼袋",
+				"t4": "",
+				"t5": "",
+				"t5a": 28.73,
+				"t6": "眉尾下垂",
+				"t6a": 27.9
+			},
+			"frame6": {
+				"a": 118.7,
+				"b": 28.73,
+				"c": 27.9
+			},
+			"frame7": {
+				"a": 6.96,
+				"b": 10.8,
+				"c": 50.37,
+				"d": 30.17,
+				"t2": "标准人中",
+				"t2a": "长度： 16.03",
+				"t3": "法令纹",
+				"t4": "嘴唇薄",
+				"t5": "鼻翼窄",
+				"t5a": "长度：52.9",
+				"t1": "黄金三角偏小"
+			},
+			"frame8": {
+				"a": 16.03,
+				"b": 52.9
+			},
+			"goldenTriengleDeg": 241.5,
+			"glodenText": "黄金三角偏小",
+			"faceTypeDesc": {
+				"face_chin_desc": "您下巴比较尖,锐度高,下颔角略窄,比较精致灵巧,人中偏短,比较显年轻,",
+				"face_type_name": "冷艳网红脸",
+				"face_mouth_a_desc": "嘴角下垂,有生人勿近的感觉,",
+				"face_mouth_b_desc": "嘴角下垂,有生人勿近的感觉,",
+				"face_nose_desc": "鼻梁高挺,因此在距离感上显得长相高冷有气场。"
+			},
+			"frameTextValue7": {
+				"a": 84.9,
+				"b": 50,
+				"c": 40.8
+			},
+			"faceshape": {
+				"Lower_atrium": "下庭比中庭长",
+				"facetypename": "冷艳网红脸",
+				"facetypechin": "圆形脸",
+				"facemouthtype": "嘴角下垂",
+				"facetypemouth": "嘴唇薄",
+				"facetypenose": "鼻翼窄",
+				"chintype": "尖下巴",
+				"temple": "太阳穴饱满",
+				"eye_tail": "眼尾上扬",
+				"eyebrow_tail": "眉尾下垂"
+			},
+			"powerfull": {
+				"leval": "饱满",
+				"desc": "您的脸型圆润，五官饱满，脸型的衰老迹象不多，请继续保持。"
+			},
+			"symmetry": {
+				"leval": "面部两侧不均匀",
+				"desc": "俗称大小脸，面部不对称可能由于面部骨骼不对称性产生的，同时应注意您的饮食、运动及面部表情管理"
+			},
+			"faceData": {
+				"result": {
+					"face_list": [{
+						"face_token": "026af4aa03596cb45dd36149f2141add",
+						"location": {
+							"left": 138.4,
+							"top": 89.16,
+							"width": 93,
+							"height": 116,
+							"rotation": 1
+						},
+						"face_probability": 1,
+						"angle": {
+							"yaw": -1.44,
+							"pitch": 5.64,
+							"roll": 1.57
+						},
+						"age": 32,
+						"beauty": 63.19,
+						"expression": {
+							"type": "none",
+							"probability": 1
+						},
+						"face_shape": {
+							"type": "oval",
+							"probability": 0.43
+						},
+						"gender": {
+							"type": "male",
+							"probability": 1
+						},
+						"glasses": {
+							"type": "none",
+							"probability": 1
+						},
+						"landmark": [],
+						"landmark72": [],
+						"landmark150": {},
+						"race": {
+							"type": "white",
+							"probability": 0.95
+						},
+						"quality": {
+							"occlusion": {
+								"left_eye": 0,
+								"right_eye": 0,
+								"nose": 0,
+								"mouth": 0,
+								"left_cheek": 0.02,
+								"right_cheek": 0.02,
+								"chin_contour": 0
+							},
+							"blur": 0,
+							"illumination": 128,
+							"completeness": 1
+						},
+						"eye_status": {
+							"left_eye": 0.9999446869,
+							"right_eye": 1
+						},
+						"emotion": {
+							"type": "surprise",
+							"probability": 1
+						},
+						"face_type": {
+							"type": "human",
+							"probability": 0.99
+						}
+					}]
+				}
+			}
+		},
+		"report": {
+			"top": "{\"x\":150,\"y\":0,\"txt\":\"上庭较短\"}",
+			"eyebrow": "{\"x\":213.67,\"y\":91.49,\"txt\":\"眉毛上翘\"}",
+			"eye": "{\"x\":155.86,\"y\":108.54,\"txt\":\"眼圆有神\"}",
+			"nose": "{\"x\":189.62,\"y\":134.27,\"txt\":\"鼻翼中正\"}",
+			"mouse": "{\"x\":187.68,\"y\":157.51,\"txt\":\"双唇圆阔\"}",
+			"score": 82,
+			"score_detail": "[26,38,30,40,55,37,22]",
+			"summary": "上庭高而饱满主聪明、得祖荫、运程主早年运。学运佳，有父辈疼爱，成长环境好。 中庭长，中年是人生的黄金岁月；自身的创造能力和拼博能力很强，在三十到五十这二十年，自身成就达到人生的巅峰。 下庭较长、又方的人，一般体格比较强健，是运动员身材，有毅力，在逆境中挣扎生存，不会灰心失望；懂得照顾家人，如果是女性，则是事业上会很好，家里也会管理的井井有条，非常负责。",
+			"eye_desc": "缺乏生活主意，交友及使用钱财不节制。柳叶眉弯曲的幅度大，呈现弧型，并且眉形清长由头至尾走势顺畅；眉相如此的人，内心善良，心肠特软，女生则是温润如水的温柔佳人，但容易没有主见，随波逐流，在事业上和需要决断的地方需要进一步努力。",
+			"mouse_desc": "嘴角下垂                               (相学中称为覆船口)，为人骄傲并略带偏执，行事态度强硬，不会轻易妥协，然而性格耿直，有时过于讲求原则，但也能吃苦耐劳，勇于面对挑战和困境。嘴唇厚度适中，做事行事很注重规矩，自己给自己设限，条条框框很多，很多强迫症就是这样的面相，但是做事严谨，能成事。嘴唇代表口福和交际，嘴唇适中不容易有肥胖、肠胃等问题，因为食欲保持节制，辛辣酸甜有节制，不会对身体造成太大的压力，会有一个轻松的身体，交际方面不会有很多认识的人，但有真心朋友。嘴大，精力充沛，好动和爱说话，而说起话来亦有声有色，吸引人听下去。",
+			"nose_desc": "善于守财，但也有些利己主义，比较实际，对赚钱很有企图心，能够勤俭节约，但器度略显不足。您的膀胱肠胃系统良好，所以能够把赚进来的钱都给留住，尤其如果正面不见鼻孔的话，更能够清楚分辨何时该支出，何时该守财，对于赚钱机会的把握也更有能力，爱情上也能够得到别人的疼爱及付出，不过如果正面露出鼻孔，那就容易沉溺在投机的快感当中，反而容易一次赔光所有钱。\r\n",
+			"emotion": "<p>&nbsp; &nbsp; &nbsp; &nbsp;今年感情运势较好，默契程度有所上升，但需要解决好每次发生的问题，以免都会成为今后的陈年旧事，不要过多的约束对方，沟通不宜太过强调个人主义，以免彼此有所疏离，需要适时的关心对方，出现分歧，要学会求同存异，或 可前期的牢骚，只是表达而已，千万不要发展成矛盾和隔阂，反而上升到据理力争的状态，小的口舌，更多都是雷声大雨点小，风雨过后，依然晴天，不宜亲友的介入，以免弄巧成拙，反而生事，多做沟通，可以通过共同参加活动来增进协调之感，外出郊游旅行不宜时间过长，多做妥协的忍让，不做固执己见的争论，适当的考虑让时间来淡化分歧，通过赠送小礼物，也能给彼此感情增色不少，只要妥当处理，还是能够缓和彼此感情的；</p><p>&nbsp; &nbsp; &nbsp; &nbsp;单身者很难抓住重点，甚至会忽略细解，间或会有见异思迁的情况，情侣之间感情较好，适宜经常一起出入，以此避免他人的介入，而增加变数，其次，无论是从增进彼此感情，还是增加沟通上，都能有所裨益，但还是需要谨慎分歧矛盾，把握不好，也会出现失和分手的局面，年内有计划考虑结婚的情侣，家庭之间容易出现分歧，且需要谨慎意外的状况，适当放缓婚期为好，已婚之人感情较好，家庭和睦，大多都是平淡之中见真情，适当活跃一下家庭气氛，调剂一下，还是能为生活增色不少的。</p>",
+			"cause": "<p>&nbsp; &nbsp; &nbsp; &nbsp;事业上顺风顺水，是大展拳脚的一年，工作事业上多现良机，谋事中又有小吉星帮助，遇事多成的好兆头。只要好好把握今年的好运势，工作事业上踏实进取，自然有加薪升职的机会。而自我经营、谋事创业者，今年也是机遇之年，只要在熟悉的专业或行业上稳步规划，步步为营的扩展自己的事业，自然能借助好运及小吉星，让自己在事业发展及创业上心想事成、顺顺当当。开运福宝绿幽灵“如意豆”，针对小吉运设计，有旺运效果，可增强财富运，有三才合一之效。在事业方面，今年运势尚佳。有吉星“太阴”、“天厨”以及“天德”的照耀。</p><p>&nbsp; &nbsp; &nbsp; &nbsp;在工作上，要保持积极向上的心态，一旦得到贵人的相助，立刻紧握机会，努力往上攀爬。同时要打好与同事间的关系，不要冷漠疏离，更不能高高在上，良好的人际关系网，对于今后事业的腾飞，都起到很大的助推作用。值得一提的是，如果是从事食品行业，2020年事业运势还是很好的，很有可能取得非常大的突破，在业内做出卓越的成绩。</p>",
+			"five1": "金",
+			"five1_rate": 67,
+			"five2": "水",
+			"five2_rate": 33,
+			"five_desc": "您的面相是金型带水的脸型，这样的组合是相生相化之格，此局以贵人无数著称，一生厚福，逢凶化吉，器宇轩昂，平步青云，通常以武职为多，现代亦可在商业上有大成就，乱世可掌大权，盛世亦有文采，文带武职，有大名声，但此局不可肉肥气虚，代表水多淹金，光彩被没，难以出头，有才华亦不被人所看见，反主飘荡。\r\n"
+		}
+	}
+}
